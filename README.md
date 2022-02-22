@@ -1,3 +1,6 @@
+[![Build Status](https://github.com/wucas/AltSymSquare/workflows/CI/badge.svg?branch=master)](https://github.com/wucas/AltSymSquare/actions?query=workflow%3ACI+branch%3Amaster)
+[![Code Coverage](https://codecov.io/gh/wucas/AltSymSquare/branch/master/graphs/badge.svg)](https://codecov.io/gh/wucas/AltSymSquare/branch/master)
+
 # The GAP package AltSymSquare
 
 TODO: add a description of your package; perhaps also instructions how how to
