@@ -3,14 +3,15 @@
 
 # The GAP package AltSymSquare
 
-TODO: add a description of your package; perhaps also instructions how how to
-install and use it, resp. where to find out more
-
+This package provides functionality to compute efficient isomorphisms between
+the natural representation of a classical group and its absolutely irreducible
+representation on the alternating or symmetric square. The algorithms in this
+package are the result of joint work by Anna Sucker, Csaba Schneider and Lucas
+Wollenhaupt. 
 
 ## Contact
 
-TODO: add info on how to contact you and/or how to report issues with your
-package
+If you find any issues or have a question do not hesitate to open an issue on GitHub.
 
 ## License
 
